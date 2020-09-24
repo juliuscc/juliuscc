@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I do open source software :unlock:. I do mostly JavaScript projects but also enjoy all kinds of 🕸️ web development.
+I do open source software. It's mostly JavaScript but I also enjoy other types of web development. 👨‍💻
 
 
 
