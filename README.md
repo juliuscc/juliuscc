@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hi there 👋
+
+I do open source software :unlock:. I do mostly JavaScript projects but also enjoy all kinds of 🕸️ web development.
+
+
 
 <!--
 **juliuscc/juliuscc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
